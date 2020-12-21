@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  p {
+      background-image: url ("tumblr_n2nsp08SHe1sb65tmo1_1280.png");
+  } 
+   
+  h1 {
+    color: rgb(96, 13, 163);
+    background-color: darkkhaki;
+    opacity: 0.3;
+  }
+   
+   
+  p, 
+  li {
+    font-size: 18px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
